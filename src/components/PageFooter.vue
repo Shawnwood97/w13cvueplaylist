@@ -13,6 +13,6 @@ footer {
   display: grid;
   place-items: center;
   height: 3vh;
-  background: burlywood;
+  background: #222831;
 }
 </style>

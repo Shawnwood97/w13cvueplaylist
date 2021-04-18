@@ -22,4 +22,8 @@ export default {
   padding: 0;
   box-sizing: border-box;
 }
+
+body {
+  color: #eeeeee;
+}
 </style>
